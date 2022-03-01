@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @n0rm4lus3r
 - 👀 I’m interested in front end
-- 🌱 I’m currently learning react js
-- 💞️ I’m looking to collaborate on comunity projects?
+- 🌱 I’m currently learning mongo db
+- 💞️ I’m looking to collaborate on comunity projects
 - 📫 How to reach me fernando_arenas@tutanota.com
